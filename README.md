@@ -14,7 +14,7 @@ Another driver was the fact that I suspected that a Tektronix scope would be bet
 
 I had already been watching eBay for cheap Tek scopes (there aren't many), when I noticed this one:
 
-![Tek 420A on eBay](pics/tek420a/tek420a_ebay.png)
+![Tek 420A on eBay](pics/tek420a_ebay.png)
 
 The Internet is full of stories of people who were able to find $50 bargains of allegedly broken scopes that worked with
 only a bit of work, but $190 (including the $30 shipping) is really not a bad price for a scope that's not only listed
