@@ -20,7 +20,7 @@ The Internet is full of stories of people who were able to find $50 bargains of 
 only a bit of work, but $190 (including the $30 shipping) is really not a bad price for a scope that's not only listed
 as working, but one that has been calibrated only little more than a year ago!
 
-![Tek 420A Calibration Tag](pics/tek420a/tek420a_calibrated.png)
+![Tek 420A Calibration Tag](pics/tek420a_calibrated.png)
 
 A week later, the goods arrived. 
 
@@ -29,7 +29,7 @@ It still had the "Property of Motorola" inventory tag attached, and 2 "RICKY J" 
 The eBay listing didn't have the customary bootup screen, but whatever worries I had were unfounded: shortly after powering
 up the scope, I was greeted with with "Power-On self check PASSED" message!
 
-![Tek 420A Poweron Self Check PASSED](/assets/tek420a/tek420a_self_check_pass.png)
+![Tek 420A Poweron Self Check PASSED](pics/tek420a_self_check_pass.png)
 
 
 # The Tektronix TDS 420A in Brief
